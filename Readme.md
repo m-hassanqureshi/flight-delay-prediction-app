@@ -2,6 +2,9 @@
 
 This is a Streamlit-based web application that predicts flight departure delays using machine learning. The app allows users to input flight details and provides predictions along with confidence levels. It also includes data analysis and model insights.
 
+## Live demo
+https://flight-delay-prediction-application.streamlit.app/
+
 ## Features
 
 - **Delay Prediction**: Predict departure delays based on flight details.
